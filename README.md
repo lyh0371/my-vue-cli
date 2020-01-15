@@ -6,6 +6,8 @@
 + npm run build 打包项目
 + npm run lint 代码格式检查及自动修改
 
+[配合技术文章食用会更香](https://mp.weixin.qq.com/s/qJfD0hk7BhWC73trQHd4qQ)
+
 ## 说明
 为了学习而造的轮子是好轮子
 欢迎关注微信公众号 `码不停息`, 我们一同进步
